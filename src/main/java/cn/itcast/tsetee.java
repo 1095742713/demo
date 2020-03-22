@@ -19,7 +19,7 @@ public class tsetee {
         //在哪一行
         Row row = sheet.createRow(1);
         //在那个单元格
-        Cell cell = row.createCell(3);
+        Cell cell = row.createCell(773);
         //在单元格中设置值
         cell.setCellValue("wdafaf张三");
         File file = new File("D:/w/a.xlsx");
